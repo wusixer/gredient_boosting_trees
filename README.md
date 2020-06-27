@@ -1,6 +1,6 @@
 # Gredient Boosting Trees in predicting medical insurance charges
 
-Code and results can be found at `gredient_boosting_tree.html`
+Code and results can be found at `gredient_boosting_tree.ipynb`
 
 `insurance.csv` was downloaded from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance)
 
