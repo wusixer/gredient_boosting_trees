@@ -1,4 +1,4 @@
-#Gredient Boosting Trees in predicting medical insurance charges
+# Gredient Boosting Trees in predicting medical insurance charges
 
 Code and results can be found at `gredient_boosting_tree.html`
 
